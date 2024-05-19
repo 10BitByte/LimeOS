@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'LimeOS'
+copyright = '2024, LimeOS'
+author = 'LimeOS'
 
-release = '0.1'
-version = '0.1.0'
+release = '3.0'
+version = '3.0.0'
 
 # -- General configuration
 
