@@ -1,5 +1,5 @@
 LimeOS Application API
-===================================
+======================
 
 **LimeOS** is a game that allows players to create their own in-game applications using the API
 
