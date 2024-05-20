@@ -5,6 +5,7 @@ LimeOS Application API
 
 Check out the :doc:`basics` section for basic information.
 Check out the :doc:`graphics` section for creating pretty GUIs.
+See :doc:`functions` section for a complete list of API functions.
 
 .. note::
 
@@ -17,3 +18,4 @@ Contents
 
    basics
    graphics
+   functions
