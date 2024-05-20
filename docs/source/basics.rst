@@ -3,6 +3,7 @@ Basics
 
 The LimeOS API uses Lua 5.1, and provides most Luau APIs.
 Example: Printing "Hello, World!"
+---------------------------------
 
 .. code-block:: luau
 
