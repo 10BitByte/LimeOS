@@ -1,7 +1,7 @@
 Graphics
 ========
 
-LimeOS provides a API for creating Graphical Objects.
+LimeOS provides a API for creating Graphical Interfaces.
 
 You can create a new window using:
 
