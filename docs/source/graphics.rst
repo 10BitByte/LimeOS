@@ -16,6 +16,7 @@ You can add a UI Element to your window using:
    local UIElement = CreateUI(Win, ElementName)
 
 Some valid ElementNames are: TextLabel, TextButton, ImageLabel, etc.
+
 Example: Hello world GUI application.
 -------------------------------------
 
