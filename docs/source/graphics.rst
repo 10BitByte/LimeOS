@@ -17,6 +17,7 @@ You can add a UI Element to your window using:
 
 Some valid ElementNames are: TextLabel, TextButton, ImageLabel, etc.
 Example: Hello world GUI application.
+-------------------------------------
 
 .. code-block:: luau
 
